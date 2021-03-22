@@ -1,1 +1,1 @@
-# functional-programming-modern-style
+# functional-programming
